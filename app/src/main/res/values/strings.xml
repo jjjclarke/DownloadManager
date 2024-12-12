@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Download Manager</string>
+
+    <string name="link_input_context_hint">Input URL…</string>
+
+    <string name="begin_DL">Download</string>
+
+    <string name="delete_list">Delete from List</string>
+
+    <string name="notifications_title">Notifications</string>
+    <string name="aboutApp">About Download Manager</string>
+
+    <string name="about_title">About Download Manager</string>
+
+    <string name="request_title">Downloading</string>
+    <string name="request_desc">Please wait.</string>
+
+    <string name="menu_bar_settings_title">Settings</string>
+    <string name="menu_bar_return_title">Return</string>
+</resources>

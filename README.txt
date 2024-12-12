@@ -1,0 +1,3 @@
+This is a download manager for Android. It's very primitive and probably very buggy, but I'm going through my code from this semester and just uploading it all to GitHub.
+
+The app will run on Android 10 (I think) or greater, but the code won't work unless you're running on Android 13 or greater, due to the way Google changed permissions in that version of Android. Since it was never going to be run on a real device and I was under a time crunch, I just left it as is.
